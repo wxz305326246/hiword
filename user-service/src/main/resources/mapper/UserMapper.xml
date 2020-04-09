@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper  
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 
+1.在mybats的开发中namespace有特殊的意思，一定要是对应接口的全限定名
+	通过namespace可以简历mapper.xml和接口之间的关系(名字不重要，位置不重要)
+ -->
+<mapper namespace="com.wxz.mapper.UserMapper">
+    <select id="login" parameterType="com.wxz.entity.User" resultType="com.wxz.entity.User">
+        select * from a_user where username=#{username} and pwd=#{pwd}
+    </select>
+    <select id="list" resultType="com.wxz.entity.Goods">
+        select *from a_goods
+    </select>
+    <insert id="insert" parameterType="com.wxz.entity.User">
+        insert into a_user(username,pwd)  values (#{username},#{pwd})
+    </insert>
+	
+</mapper>
