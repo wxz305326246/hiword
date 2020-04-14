@@ -5,6 +5,9 @@ server:
 spring:
   application:
     name: common
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
 eureka:
   client:
     registry-fetch-interval-seconds: 5 # 获取服务列表的周期：5s

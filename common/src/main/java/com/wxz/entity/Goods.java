@@ -1,6 +1,5 @@
 package com.wxz.entity;
 
-import org.springframework.format.annotation.DateTimeFormat;
 
 import java.util.Date;
 
@@ -8,7 +7,6 @@ public class Goods {
     private Integer gid;
     private String gname;
     private int price;
-    @DateTimeFormat(pattern = "yyyy-MM-dd")
     private Date datea;
 
     @Override

@@ -1,7 +1,5 @@
 package com.wxz.controller;
 
-import com.alibaba.druid.sql.visitor.functions.Char;
-
 public class text {
     public  int IndexOf(char[] w,char[] str){
         if (w == null || str == null || w.length == 0 || str.length == 0)
