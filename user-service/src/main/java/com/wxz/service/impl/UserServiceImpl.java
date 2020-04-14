@@ -25,7 +25,6 @@ public class UserServiceImpl implements UserService {
     public List<Goods> list() {
         List<Goods> list = userMapper.list();
         for (Goods s:list) {
-            System.out.println("数据"+s);
             logger.debug("log4j日志输出"+s.getGname());
             logger.info("log4j日志输出"+s);
         }
