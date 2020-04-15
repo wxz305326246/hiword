@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d49cd481-c39a-4fb5-8067-39f81d0895a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/CommonApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/CommonApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/Goods.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/Goods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/resp/Resp.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/resp/Resp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/classes/com/wxz/util/EmptyUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/wxz/util/EmptyUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/wxz/EurekaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/target/classes/com/wxz/EurekaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/ServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/ServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/controller/text.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/controller/text.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/wxz/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/wxz/service/impl/UserServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="d49cd481-c39a-4fb5-8067-39f81d0895a6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -76,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/wxz/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="175">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -229,59 +214,6 @@
             <path>
               <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
               <item name="hiword" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wxz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wxz" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hiword" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hiword" type="b2602c69:ProjectViewProjectNode" />
@@ -554,7 +486,7 @@
       <workItem from="1586764321463" duration="614000" />
       <workItem from="1586834135973" duration="8075000" />
       <workItem from="1586933806550" duration="54000" />
-      <workItem from="1586935823816" duration="230000" />
+      <workItem from="1586935823816" duration="490000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <created>1586851942914</created>
@@ -570,11 +502,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586852117420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test3">
+      <created>1586936104948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586936104948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49166000" />
+    <option name="totallyTimeSpent" value="49426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -586,8 +525,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="0" width="1404" height="816" extended-state="0" />
-    <editor active="true" />
+    <frame x="96" y="0" width="1404" height="816" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25705793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -632,7 +570,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/user-client/src/main/java/com/wxz/controller/test.java" />
@@ -912,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user-service/src/main/java/com/wxz/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="175">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
